@@ -26,11 +26,6 @@
   <img src="https://views.whatilearened.today/views/github/omkarcloud/botasaurus-dockerfile.svg" width="80px" height="28px" alt="Views" />
 </p>
 
-<p align="center">
-  <a href="https://gitpod.io/#https://github.com/omkarcloud/botasaurus-dockerfile">
-    <img alt="Open in Gitpod" src="https://gitpod.io/button/open-in-gitpod.svg" />
-  </a>
-</p>
 
 ---
 
@@ -68,6 +63,6 @@ Become one of our amazing stargazers by giving us a star ⭐ on GitHub!
 
 It's just one click, but it means the world to us.
 
-[![Stargazers for @omkarcloud/botasaurus-dockerfile](https://reporoster.com/stars/omkarcloud/botasaurus-dockerfile)](https://github.com/omkarcloud/botasaurus-dockerfile/stargazers)
+[![Stargazers for @omkarcloud/botasaurus-dockerfile](https://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=omkarcloud&repo=botasaurus-dockerfile)](https://github.com/omkarcloud/botasaurus-dockerfile/stargazers)
 
 ## Made with *Discipline* for you in Bharat 🇮🇳 - Vande Mataram
