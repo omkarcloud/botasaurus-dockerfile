@@ -26,4 +26,6 @@ ENV CHROME_BIN=/usr/bin/google-chrome
 # Check if Chrome was installed successfully
 RUN google-chrome --version
 
+RUN pip install botasaurus 
+
 CMD ["python", "main.py"]
