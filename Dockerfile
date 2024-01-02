@@ -23,6 +23,9 @@ RUN apt-get update && apt-get install -y google-chrome-stable \
 # Add the Chrome as a path variable
 ENV CHROME_BIN=/usr/bin/google-chrome
 
+RUN python -m pip install javascript
+RUN python -m javascript --install proxy-chain
+
 # Check if Chrome was installed successfully
 RUN google-chrome --version
 
