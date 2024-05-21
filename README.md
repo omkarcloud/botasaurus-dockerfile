@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gitpod.io/#https://github.com/omkarcloud/gitpod-botasaurus">
+  <a href="https://gitpod.io/#https://github.com/omkarcloud/botasaurus-dockerfile">
     <img alt="Open in Gitpod" src="https://gitpod.io/button/open-in-gitpod.svg" />
   </a>
 </p>
