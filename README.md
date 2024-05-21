@@ -22,6 +22,7 @@
     <img alt="Issues" src="https://img.shields.io/github/issues/omkarcloud/botasaurus-dockerfile?color=purple&style=for-the-badge" />
   </a>
 </p>
+
 <p align="center">
   <img src="https://views.whatilearened.today/views/github/omkarcloud/botasaurus-dockerfile.svg" width="80px" height="28px" alt="Views" />
 </p>
