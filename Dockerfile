@@ -1,5 +1,5 @@
 # Use an official Python runtime as a parent image
-FROM nikolaik/python-nodejs:python3.9-nodejs18-slim
+FROM nikolaik/python-nodejs:python3.12-nodejs22-slim
 
 # Install Chrome dependencies
 RUN apt-get update && apt-get install -y \
@@ -27,6 +27,6 @@ ENV CHROME_BIN=/usr/bin/google-chrome
 
 
 # Check if Chrome was installed successfully
-RUN google-chrome --version
+# RUN google-chrome --version
 
 CMD ["python", "main.py"]
