@@ -71,4 +71,3 @@ It's just one click, but it means the world to us.
 
 [![Stargazers for @omkarcloud/botasaurus-dockerfile](https://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=omkarcloud&repo=botasaurus-dockerfile)](https://github.com/omkarcloud/botasaurus-dockerfile/stargazers)
 
-## Made with *Discipline* for you in Bharat 🇮🇳 - Vande Mataram
